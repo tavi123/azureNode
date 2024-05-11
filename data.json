@@ -1,0 +1,334 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "족발보쌈",
+      "main_dishes": [
+        {
+          "name": "족발",
+          "recommended_side_dishes": [
+            "보쌈",
+            "콩나물무침",
+            "마늘무침"
+          ]
+        },
+        {
+          "name": "보쌈",
+          "recommended_side_dishes": [
+            "족발",
+            "콩나물무침",
+            "마늘무침"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "일식,회",
+      "main_dishes": [
+        {
+          "name": "초밥",
+          "recommended_side_dishes": [
+            "참치회",
+            "연어회",
+            "김밥"
+          ]
+        },
+        {
+          "name": "참치회",
+          "recommended_side_dishes": [
+            "초밥",
+            "연어회",
+            "김밥"
+          ]
+        }
+      ]
+    },
+      {
+      "id": 3,
+      "name": "돈까스",
+      "main_dishes": [
+        {
+          "name": "돈까스",
+          "recommended_side_dishes": [
+            "밥",
+            "김치",
+            "무생채"
+          ]
+        },
+        {
+          "name": "치즈돈까스",
+          "recommended_side_dishes": [
+            "밥",
+            "김치",
+            "무생채"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "고기,구이",
+      "main_dishes": [
+        {
+          "name": "삼겹살",
+          "recommended_side_dishes": [
+            "상추",
+            "김치",
+            "막국수"
+          ]
+        },
+        {
+          "name": "갈비",
+          "recommended_side_dishes": [
+            "상추",
+            "김치",
+            "막국수"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "피자",
+      "main_dishes": [
+        {
+          "name": "페퍼로니 피자",
+          "recommended_side_dishes": [
+            "치즈 피자",
+            "샐러드",
+            "콜라"
+          ]
+        },
+        {
+          "name": "치즈 피자",
+          "recommended_side_dishes": [
+            "페퍼로니 피자",
+            "샐러드",
+            "콜라"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "찜,탕,찌개",
+      "main_dishes": [
+        {
+          "name": "감자탕",
+          "recommended_side_dishes": [
+            "순대",
+            "깍두기",
+            "막걸리"
+          ]
+        },
+        {
+          "name": "뼈해장국",
+          "recommended_side_dishes": [
+            "소주",
+            "떡볶이",
+            "김치전"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "양식",
+      "main_dishes": [
+        {
+          "name": "스테이크",
+          "recommended_side_dishes": [
+            "마시멜로우 그라탕",
+            "샐러드",
+            "와인"
+          ]
+        },
+        {
+          "name": "파스타",
+          "recommended_side_dishes": [
+            "크림소스 스파게티",
+            "샐러드",
+            "와인"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "중식",
+      "main_dishes": [
+        {
+          "name": "짜장면",
+          "recommended_side_dishes": [
+            "탕수육",
+            "짬뽕",
+            "맥주"
+          ]
+        },
+        {
+          "name": "짬뽕",
+          "recommended_side_dishes": [
+            "짜장면",
+            "탕수육",
+            "맥주"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "아시안",
+      "main_dishes": [
+        {
+          "name": "타이 치킨 커리",
+          "recommended_side_dishes": [
+            "토마토 샐러드",
+            "나시 고레안",
+            "망고 스트로베리 주스"
+          ]
+        },
+        {
+          "name": "쌀국수",
+          "recommended_side_dishes": [
+            "하노이 쌀국수",
+            "판타스트릭",
+            "코코넛 아이스크림"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "치킨",
+      "main_dishes": [
+        {
+          "name": "후라이드 치킨",
+          "recommended_side_dishes": [
+            "양배추 샐러드",
+            "감자 튀김",
+            "콜라"
+          ]
+        },
+        {
+          "name": "양념 치킨",
+          "recommended_side_dishes": [
+            "치킨 무",
+            "감자 샐러드",
+            "사이다"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "백반, 국수",
+      "main_dishes": [
+        {
+          "name": "비빔밥",
+          "recommended_side_dishes": [
+            "계란찜",
+            "깍두기",
+            "식혜"
+          ]
+        },
+        {
+          "name": "김밥",
+          "recommended_side_dishes": [
+            "깍두기",
+            "어묵볶음",
+            "녹차"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "버거",
+      "main_dishes": [
+        {
+          "name": "더블 치즈버거",
+          "recommended_side_dishes": [
+            "감자튀김",
+            "콜라",
+            "케첩"
+          ]
+        },
+        {
+          "name": "불고기 버거",
+          "recommended_side_dishes": [
+            "감자튀김",
+            "콜라",
+            "케첩"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "분식",
+      "main_dishes": [
+        {
+          "name": "라볶이",
+          "recommended_side_dishes": [
+            "튀김",
+            "만두",
+            "콜라"
+          ]
+        },
+        {
+          "name": "김밥",
+          "recommended_side_dishes": [
+            "튀김",
+            "만두",
+            "콜라"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "디저트,커피",
+      "main_dishes": [
+        {
+          "name": "티라미수",
+          "recommended_side_dishes": [
+            "에스프레소",
+            "마카롱",
+            "과일 칵테일"
+          ]
+        },
+        {
+          "name": "아이스크림",
+          "recommended_side_dishes": [
+            "아메리카노",
+            "와플",
+            "푸딩"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "야식",
+      "main_dishes": [
+        {
+          "name": "라면",
+          "recommended_side_dishes": [
+            "김치",
+            "계란",
+            "라면 튀김"
+          ]
+        },
+        {
+          "name": "치즈라면",
+          "recommended_side_dishes": [
+            "김치",
+            "계란",
+            "라면 튀김"
+          ]
+        }
+      ]
+    }
+  ]
+}
