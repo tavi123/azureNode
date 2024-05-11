@@ -23,6 +23,6 @@ app.get('/api/categories', (req: Request, res: Response) => {
 });
 // 서버 시작
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
+app.listen(8080, () => {
   console.log(`Server is running on port ${PORT}`);
 });
